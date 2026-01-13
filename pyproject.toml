@@ -1,0 +1,12 @@
+[project]
+name = "uzbek-payments"
+version = "1.0.0"
+description = "Payment gateway integrations for Uzbek payment systems"
+requires-python = ">=3.10"
+dependencies = [
+    "frappe>=15.0.0",
+]
+
+[build-system]
+requires = ["flit_core >=3.4,<4"]
+build-backend = "flit_core.buildapi"

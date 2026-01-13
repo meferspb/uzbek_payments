@@ -1,0 +1,19 @@
+Source,Translation
+Uzbek Payments,Узбекские платежи
+Invalid Payme credentials. Please check Merchant ID and Key.,Неверные учетные данные Payme. Проверьте Merchant ID и Key.
+Payme only supports UZS currency. Please select UZS for payment.,Payme поддерживает только валюту UZS. Выберите UZS для оплаты.
+Missing order ID or amount,Отсутствует ID заказа или сумма
+Failed to create Payme payment request,Не удалось создать запрос на оплату Payme
+Could not generate Payme payment URL: {0},Не удалось создать URL оплаты Payme: {0}
+Missing signature in callback,Отсутствует подпись в callback
+Invalid signature,Неверная подпись
+Integration Request not found,Запрос интеграции не найден
+Invalid Click credentials. Please check Merchant ID, Service ID, and Secret Key.,Неверные учетные данные Click. Проверьте Merchant ID, Service ID и Secret Key.
+Click only supports UZS currency. Please select UZS for payment.,Click поддерживает только валюту UZS. Выберите UZS для оплаты.
+Failed to create Click payment request,Не удалось создать запрос на оплату Click
+Could not generate Click payment URL: {0},Не удалось создать URL оплаты Click: {0}
+Invalid FreedomPay credentials. Please check Merchant ID, Terminal ID, and Secret Key.,Неверные учетные данные FreedomPay. Проверьте Merchant ID, Terminal ID и Secret Key.
+FreedomPay only supports UZS currency. Please select UZS for payment.,FreedomPay поддерживает только валюту UZS. Выберите UZS для оплаты.
+Failed to create FreedomPay payment request,Не удалось создать запрос на оплату FreedomPay
+Could not generate FreedomPay payment URL: {0},Не удалось создать URL оплаты FreedomPay: {0}
+Uzbek payment gateways created successfully,Узбекские платежные шлюзы успешно созданы

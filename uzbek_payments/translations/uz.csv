@@ -1,0 +1,19 @@
+Source,Translation
+Uzbek Payments,O'zbek to'lovlari
+Invalid Payme credentials. Please check Merchant ID and Key.,Noto'g'ri Payme ma'lumotlari. Merchant ID va Key ni tekshiring.
+Payme only supports UZS currency. Please select UZS for payment.,Payme faqat UZS valyutasini qo'llab-quvvatlaydi. To'lov uchun UZS ni tanlang.
+Missing order ID or amount,Buyurtma ID yoki miqdor etishmayapti
+Failed to create Payme payment request,Payme to'lov so'rovi yaratib bo'lmadi
+Could not generate Payme payment URL: {0},Payme to'lov URL manzilini yaratib bo'lmadi: {0}
+Missing signature in callback,Callback da imzo etishmayapti
+Invalid signature,Noto'g'ri imzo
+Integration Request not found,Integratsiya so'rovi topilmadi
+Invalid Click credentials. Please check Merchant ID, Service ID, and Secret Key.,Noto'g'ri Click ma'lumotlari. Merchant ID, Service ID va Secret Key ni tekshiring.
+Click only supports UZS currency. Please select UZS for payment.,Click faqat UZS valyutasini qo'llab-quvvatlaydi. To'lov uchun UZS ni tanlang.
+Failed to create Click payment request,Click to'lov so'rovi yaratib bo'lmadi
+Could not generate Click payment URL: {0},Click to'lov URL manzilini yaratib bo'lmadi: {0}
+Invalid FreedomPay credentials. Please check Merchant ID, Terminal ID, and Secret Key.,Noto'g'ri FreedomPay ma'lumotlari. Merchant ID, Terminal ID va Secret Key ni tekshiring.
+FreedomPay only supports UZS currency. Please select UZS for payment.,FreedomPay faqat UZS valyutasini qo'llab-quvvatlaydi. To'lov uchun UZS ni tanlang.
+Failed to create FreedomPay payment request,FreedomPay to'lov so'rovi yaratib bo'lmadi
+Could not generate FreedomPay payment URL: {0},FreedomPay to'lov URL manzilini yaratib bo'lmadi: {0}
+Uzbek payment gateways created successfully,O'zbek to'lov shlyuzlari muvaffaqiyatli yaratildi
